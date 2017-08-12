@@ -5,7 +5,7 @@
 No need to look into what's happening here...but if you do, this is how you'd set it up:
 
 
-Create a file called .env in the root directory and configure your various credentials:
+Create a file called `.env` in the root directory and configure your various credentials:
 
 
 COINBASE_API_KEY="your_coinbase_api_key"
